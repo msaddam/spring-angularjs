@@ -1,0 +1,29 @@
+body, #mainWrapper {
+    height: 100%;
+    background-color:rgb(245, 245, 245);
+}
+
+body, .form-control{
+    font-size:12px!important;
+}
+
+.floatRight{
+    float:right;
+    margin-right: 18px;
+}
+
+.has-error{
+    color:red;
+}
+
+.generic-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #EAE7E7;
+}
+
+.custom-width {
+    width: 80px !important;
+}
+
